@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Detection-Italian_Bank
+# Credit Card Fraud Detection - Italian Bank
 
 Credit cards play a significant role in today's economy, both on a small and on a larger scale: they are used in everyday shopping as well as in global business activities. Just as the use of credit cards offers great benefits, likewise the financial damage from fraudulent activities can be huge. Many machine learning techniques have been proposed to tackle the growth of credit card fraud; each has its own advantages and disadvantages, but all of these techniques share the same objective - which is indeed that of preventing and avoiding credit card fraud. In recent years there has been a rapid increase in the rate of fraudulent activity, causing considerable financial loss to many organisations, businesses and government agencies. Fraud rates are set to increase in the future, and it’s for this that many researchers have focused on fraud detection using advanced machine learning techniques. However, credit card fraud detection is not an easy task, mainly because of two reasons:
 
